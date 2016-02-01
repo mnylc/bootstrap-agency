@@ -1,3 +1,7 @@
+This is METRO's hacked bootstrap agency theme for the METRO Fellowship site.
+
+###########
+
 See the setup instructions at http://www.drupal.org/project/bootstrap_agency
 
 Modifications for Drupal are  (c) 2015 Joao Ventura (https://www.drupal.org/u/jcnventura)
